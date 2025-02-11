@@ -1,0 +1,19 @@
+// Now we will add all files , commit and then push to github
+//ok
+
+// first command is
+
+// git add .
+//  that is use to add all file in the Our github local device app
+
+// second command is
+
+// git commit -m "My Commands"
+ // this command is use to Store the all changes    // -m " " // This is use For message
+// we made on our local Deice and Save it to be upload to the GitHub when we use third command.
+
+// Third command is
+
+// git push
+//   This Command Save The all change and store for permanent if we lose out local data then we can
+// clone this GitHub Project on our local Pc.
