@@ -1,0 +1,1 @@
+No we learn how to ignore file to store on git hub.
