@@ -15,3 +15,6 @@ so add these file in .gitignore file.
 now we will create a folder with name      man      and
 we add this folder name in to .gitignore file
  now we will the commands to upload it.
+
+ now you can see the man folder is on you locale device
+  but man folder will not on in github that is use to ignore the files
