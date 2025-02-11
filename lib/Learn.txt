@@ -1,1 +1,3 @@
 No we learn how to ignore file to store on git hub.
+
+for that purpose we create a file with the name   .gitignore.txt
