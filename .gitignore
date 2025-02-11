@@ -1,4 +1,5 @@
 # Miscellaneous
+man  # Here we added our folder to ignore the uplodad on github.
 *.class
 *.log
 *.pyc

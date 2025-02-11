@@ -1,3 +1,17 @@
 No we learn how to ignore file to store on git hub.
 
 for that purpose we create a file with the name   .gitignore.txt
+
+This fill Will uploaded by using commands ok
+
+sorry i add this file just for sample or practice.
+
+we have already this file in out project .gitignore under the test folder in our project.
+so we open it
+this have some by default that are already added in it because
+when we run project some files are in out pc so this make issue and storage waste
+so add these file in .gitignore file.
+
+now we will create a folder with name      man      and
+we add this folder name in to .gitignore file
+ now we will the commands to upload it.
